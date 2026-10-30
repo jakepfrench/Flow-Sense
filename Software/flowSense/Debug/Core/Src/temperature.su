@@ -1,0 +1,2 @@
+../Core/Src/temperature.c:19:7:Temperature_ReadValue	32	static
+../Core/Src/temperature.c:83:6:Temperature_Process	40	static

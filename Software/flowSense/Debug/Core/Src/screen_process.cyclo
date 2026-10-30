@@ -1,0 +1,3 @@
+../Core/Src/screen_process.c:27:6:Display_Icon	5
+../Core/Src/screen_process.c:19:6:Display_Splash	1
+../Core/Src/screen_process.c:89:6:Process_Screen	8

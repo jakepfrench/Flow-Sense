@@ -1,0 +1,10 @@
+../Core/Src/LCD_1inch28.c:57:13:LCD_1IN28_SendData_8Bit	16	static
+../Core/Src/LCD_1inch28.c:44:6:LCD_1IN28_SendCommand	16	static
+../Core/Src/LCD_1inch28.c:358:6:LCD_1IN28_Init	16	static
+../Core/Src/LCD_1inch28.c:379:6:LCD_1IN28_SetWindows	24	static
+../Core/Src/LCD_1inch28.c:419:6:LCD_1IN28_Clear	16	static
+../Core/Src/LCD_1inch28.c:458:6:LCD_1IN28_Display	24	static
+../Core/Src/LCD_1inch28.c:472:6:LCD_1IN28_DisplayRGB565_DMA	16	static
+../Core/Src/LCD_1inch28.c:494:6:LCD_1IN28_DisplayWindows	40	static
+../Core/Src/LCD_1inch28.c:518:6:LCD_1IN28_DrawPaint	16	static
+../Core/Src/LCD_1inch28.c:536:6:LCD_1IN28_DrawString_DMA	72	static
